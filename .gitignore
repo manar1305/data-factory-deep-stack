@@ -1,0 +1,9 @@
+.env
+credentials.py
+*secret*
+*credentials*
+*.csv
+*.parquet
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
