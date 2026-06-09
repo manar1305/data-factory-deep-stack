@@ -1,14 +1,5 @@
-# Data Factory — Deep Stack Solutions — M2 IMSD 2025-2026
+# Data Factory -- Deep Stack Solutions -- M2 IMSD 2025-2026
 ## Prédiction de la gravité des accidents routiers (US Accidents)
-
-## Équipe
-| Rôle | Membre |
-|------|--------|
-| Architecte Data | Manar Belmokaddem |
-| Data Engineer | - |
-| Data Engineer | - |
-| Data Scientist | - |
-| Data Analyst | - |
 
 ## Onboarding — se connecter en 5 étapes
 1. Aller sur https://datalab.sspcloud.fr et se connecter
